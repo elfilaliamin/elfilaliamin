@@ -41,21 +41,21 @@
 <h2 align="left">I code with</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
 </div>
 
 ###
