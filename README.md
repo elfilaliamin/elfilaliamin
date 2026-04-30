@@ -26,15 +26,13 @@
 <h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://fb.com/med.amin.elfilali" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" height="30" width="30" style="filter: invert(30%) sepia(80%) saturate(500%) hue-rotate(200deg);" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  &nbsp;
   <a href="https://instagram.com/elfilali.medamin" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" height="30" width="30" style="filter: invert(30%) sepia(80%) saturate(500%) hue-rotate(300deg);" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  &nbsp;
   <a href="https://medium.com/@elfilaliamin" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" height="30" width="30" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
   </a>
 </p>
 
