@@ -96,13 +96,5 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
 </div>
 
-###
-
-<h3 align="left">Support</h3>
-<p align="left">
-  <a href="https://www.buymeacoffee.com/elfilaliamin" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
-  </a>
-</p>
 
 <br><br>
