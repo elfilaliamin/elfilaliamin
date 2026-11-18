@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-elfilaliamin.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elfilaliamin.com)
 [![Medium](https://img.shields.io/badge/Medium-@elfilaliamin-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elfilaliamin)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfilaliamin.design@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfilaliamin13@gmail.com)
 
 
 </div>
@@ -33,10 +33,47 @@ const amin = {
   hosting: "My own Alpine Linux home server (Docker + Nginx + Cloudflare Zero Trust)",
   loves: ["Automation tools", "Browser extensions", "Workflow optimization", "Arduino & embedded C"],
   funFact: "I enjoy reverse-engineering how web apps work 😄",
-  languages: { Arabic: "native", English: "professional", French: "limited working" },
+  languages: { Arabic: "native / bilingual", English: "professional working", French: "professional working" },
   lookingFor: "Junior full-stack or backend roles focused on practical, operational problem-solving",
 };
 ```
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="170" valign="top"><b>Aug 2025 – Sep 2026</b></td>
+    <td valign="top">
+      <b>Inventory &amp; Grocery Associate</b> · Hyper U (Unicique Holding)<br>
+      Shelf stocking, labeling and inventory tracking; coordinated daily restocks and monitored product turnover to reduce stockouts in a high-volume environment.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Jan – Feb 2025</b></td>
+    <td valign="top">
+      <b>Maintenance Intern</b> · Karama Ascenseurs<br>
+      Helped install, commission and maintain commercial elevators; diagnosed electrical and mechanical faults; calibration and safety testing of automated control units.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Jan 2023 – Jul 2024</b></td>
+    <td valign="top">
+      <b>Industrial Maintenance Intern</b> · PHEAMIS S.A.R.L<br>
+      Preventive and corrective maintenance on automated machinery; installed and tested pneumatic piping, actuators and valve systems; root-cause analysis of electromechanical breakdowns.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education & courses
+
+- 🏫 **Specialized Technician Diploma, Electromechanics of Automated Systems**: ISTA Saniat R'mel (troubleshooting, schematics, control panels and power distribution)
+- 🔬 **Baccalauréat, Physical Sciences**: Lycée Technique Imam Al Ghazali
+- ⚛️ **React Full Course**, **JavaScript Full Course**, **HTML & CSS Full Course**: SuperSimpleDev
+- 🌿 **Git Training** (branching, merging, collaboration workflows): Simplilearn
 
 ---
 
@@ -138,7 +175,7 @@ flowchart LR
 
 I'm currently looking for **junior full-stack or backend roles**. If you've got a practical, real-world problem to solve, let's talk.
 
-[![Email me](https://img.shields.io/badge/📫_elfilaliamin.design@gmail.com-0e75b6?style=for-the-badge)](mailto:elfilaliamin.design@gmail.com)
+[![Email me](https://img.shields.io/badge/📫_elfilaliamin13@gmail.com-0e75b6?style=for-the-badge)](mailto:elfilaliamin13@gmail.com)
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" alt="Medium" />](https://medium.com/@elfilaliamin)&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" alt="Facebook" />](https://fb.com/med.amin.elfilali)&nbsp;&nbsp;
