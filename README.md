@@ -16,8 +16,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-elfilaliamin.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elfilaliamin.com)
 [![Medium](https://img.shields.io/badge/Medium-@elfilaliamin-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elfilaliamin)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfilaliamin13@gmail.com)
-
 
 </div>
 
@@ -37,43 +35,6 @@ const amin = {
   lookingFor: "Junior full-stack or backend roles focused on practical, operational problem-solving",
 };
 ```
-
----
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="170" valign="top"><b>Aug 2025 – Sep 2026</b></td>
-    <td valign="top">
-      <b>Inventory &amp; Grocery Associate</b> · Hyper U (Unicique Holding)<br>
-      Shelf stocking, labeling and inventory tracking; coordinated daily restocks and monitored product turnover to reduce stockouts in a high-volume environment.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Jan – Feb 2025</b></td>
-    <td valign="top">
-      <b>Maintenance Intern</b> · Karama Ascenseurs<br>
-      Helped install, commission and maintain commercial elevators; diagnosed electrical and mechanical faults; calibration and safety testing of automated control units.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Jan 2023 – Jul 2024</b></td>
-    <td valign="top">
-      <b>Industrial Maintenance Intern</b> · PHEAMIS S.A.R.L<br>
-      Preventive and corrective maintenance on automated machinery; installed and tested pneumatic piping, actuators and valve systems; root-cause analysis of electromechanical breakdowns.
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Education & courses
-
-- 🏫 **Specialized Technician Diploma, Electromechanics of Automated Systems**: ISTA Saniat R'mel (troubleshooting, schematics, control panels and power distribution)
-- 🔬 **Baccalauréat, Physical Sciences**: Lycée Technique Imam Al Ghazali
-- ⚛️ **React Full Course**, **JavaScript Full Course**, **HTML & CSS Full Course**: SuperSimpleDev
-- 🌿 **Git Training** (branching, merging, collaboration workflows): Simplilearn
 
 ---
 
@@ -157,14 +118,6 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,cloudflare,ps&perline=8" alt="devops" />
 
-</div>
-
----
-
-## 📊 Most used languages
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfilaliamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
 </div>
 
 ---
