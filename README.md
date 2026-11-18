@@ -17,9 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-elfilaliamin.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elfilaliamin.com)
 [![Medium](https://img.shields.io/badge/Medium-@elfilaliamin-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elfilaliamin)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfilaliamin.design@gmail.com)
-[![Location](https://img.shields.io/badge/Tetouan-Morocco-C1272D?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=elfilaliamin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -30,7 +28,6 @@
 ```ts
 const amin = {
   role: "Full-Stack Developer",
-  base: "Tetouan, Morocco 🇲🇦",
   background: ["Industrial automation", "Electromechanical troubleshooting"],
   philosophy: "Reliable, clean, maintainable.",
   hosting: "My own Alpine Linux home server (Docker + Nginx + Cloudflare Zero Trust)",
