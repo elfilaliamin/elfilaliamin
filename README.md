@@ -1,100 +1,152 @@
-<h1 align="left">Hi 👋, I'm Amin El Filali</h1>
-<h3 align="left">Full-stack developer who builds and self-hosts production web apps with React, TypeScript, Node.js, PostgreSQL and Docker.</h3>
-
-###
-
-<p align="left">
-  👨‍💻 All of my projects: <a href="https://elfilaliamin.com" target="_blank">elfilaliamin.com</a><br>
-  📝 I write articles on <a href="https://medium.com/@elfilaliamin" target="_blank">Medium</a><br>
-  📍 Based in Tetouan, Morocco<br>
-  📫 Reach me at <b>elfilaliamin.design@gmail.com</b>
-</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-<p align="left">
-  🛠️ Background in industrial automation and electromechanical troubleshooting, which shapes how I write software: reliable, clean and maintainable<br>
-  🚀 I build full-stack apps and run them myself on an Alpine Linux home server with Docker, Nginx and Cloudflare Zero Trust<br>
-  🤖 I love automation tools, browser extensions and workflow optimizations<br>
-  🔌 I also build hardware projects with Arduino and embedded C<br>
-  🎯 Currently looking for junior full-stack or backend roles focused on practical, operational problem-solving<br>
-  🎲 Fun fact: I enjoy reverse-engineering how web apps work 😄<br>
-  🌍 Languages: Arabic (native), English (professional), French (limited working)
-</p>
-
-###
-
-<h2 align="left">Featured projects</h2>
-
-<p align="left">
-  🧾 <b><a href="https://github.com/elfilaliamin/MySirati" target="_blank">MySirati</a></b> – AI-ready career data platform that exports granular JSON Resume data for AI agents, with key-based access. React 18, TypeScript, Express, PostgreSQL, Drizzle ORM, Docker. (<a href="https://mysirati.aminlab.site/" target="_blank">Live</a> · <a href="https://mysirati.aminlab.site/docs/" target="_blank">Docs</a>)<br><br>
-  🎯 <b><a href="https://github.com/elfilaliamin/MasteryOS/" target="_blank">MasteryOS</a></b> – Productivity and goal platform with KPI dashboards, Kanban and list task views, course tracking and gamified rewards. React 19, Vite, Tailwind CSS v4, Express, PostgreSQL, GitHub Actions CI. (<a href="https://masteryos.aminlab.site/" target="_blank">Live</a> · <a href="https://masteryos.aminlab.site/Docs/" target="_blank">Docs</a>)<br><br>
-  🐧 <b>Self-hosted Linux server</b> – Alpine Linux home server used as a staging and self-hosting environment, with Docker, SSH key authentication, firewall rules, automated updates and local DNS routing.<br><br>
-  🤖 <b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7346212816170741770/" target="_blank">Obstacle-avoiding robot</a></b> – Autonomous wheeled robot built with Arduino, an ultrasonic sensor and DC motors, from wiring and calibration to firmware.
-</p>
-
-###
-
-<h2 align="left">Connect with me</h2>
-<p align="left">
-  <a href="https://fb.com/med.amin.elfilali" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/elfilali.medamin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@elfilaliamin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="Arduino" />
+<!-- Animated wave header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Mohamed%20Amin%20El%20Filali&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Self-Hosting%20Enthusiast%20%C2%B7%20Automation%20Nerd&descSize=17&descAlignY=58" alt="header" />
 </div>
 
-<h3 align="left">DevOps &amp; tools</h3>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Cloudflare" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://elfilaliamin.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=720&height=50&lines=I+build+and+self-host+production+web+apps+%F0%9F%9A%80;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Docker+%C2%B7+Nginx+%C2%B7+Cloudflare+Zero+Trust;From+PLCs+and+electromechanics+to+clean+code+%E2%9A%99%EF%B8%8F;Open+to+junior+full-stack+%2F+backend+roles+%F0%9F%8E%AF" alt="Typing SVG" />
+  </a>
 </div>
 
+<br>
 
-<br><br>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-elfilaliamin.com-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elfilaliamin.com)
+[![Medium](https://img.shields.io/badge/Medium-@elfilaliamin-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elfilaliamin)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfilaliamin.design@gmail.com)
+[![Location](https://img.shields.io/badge/Tetouan-Morocco-C1272D?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<img src="https://komarev.com/ghpvc/?username=elfilaliamin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## 👋 About me
+
+```ts
+const amin = {
+  role: "Full-Stack Developer",
+  base: "Tetouan, Morocco 🇲🇦",
+  background: ["Industrial automation", "Electromechanical troubleshooting"],
+  philosophy: "Reliable, clean, maintainable.",
+  hosting: "My own Alpine Linux home server (Docker + Nginx + Cloudflare Zero Trust)",
+  loves: ["Automation tools", "Browser extensions", "Workflow optimization", "Arduino & embedded C"],
+  funFact: "I enjoy reverse-engineering how web apps work 😄",
+  languages: { Arabic: "native", English: "professional", French: "limited working" },
+  lookingFor: "Junior full-stack or backend roles focused on practical, operational problem-solving",
+};
+```
+
+---
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 MySirati</h3>
+      <p>AI-ready career data platform. Exports granular <b>JSON Resume</b> data for AI agents (LLM job matching) with key-based access.</p>
+      <p><code>React 18</code> <code>TypeScript</code> <code>Express</code> <code>PostgreSQL 16</code> <code>Drizzle</code> <code>Docker</code></p>
+      <p>🔐 Argon2 · Helmet · rate limiting</p>
+      <a href="https://github.com/elfilaliamin/MySirati">GitHub</a> · <a href="https://mysirati.aminlab.site/">Live</a> · <a href="https://mysirati.aminlab.site/docs/">Docs</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 MasteryOS</h3>
+      <p>Productivity and goal platform with KPI dashboards, Kanban and list views, course tracking and gamified rewards.</p>
+      <p><code>React 19</code> <code>Vite</code> <code>Tailwind v4</code> <code>Express</code> <code>PostgreSQL</code> <code>GitHub Actions</code></p>
+      <p>♾️ Infinite scroll · URL-persisted filters</p>
+      <a href="https://github.com/elfilaliamin/MasteryOS/">GitHub</a> · <a href="https://masteryos.aminlab.site/">Live</a> · <a href="https://masteryos.aminlab.site/Docs/">Docs</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 Finance Tracker</h3>
+      <p>Self-hosted personal finance platform: multi-currency wallets (cash, bank, crypto, credit), transfers, exact balance reconciliation and itemized receipts.</p>
+      <p><code>React 18</code> <code>TypeScript</code> <code>Node 22</code> <code>Drizzle</code> <code>PostgreSQL 16</code> <code>VitePress</code></p>
+      <p>🛡️ Argon2id · JWT in HTTP-only cookies · strict CSP</p>
+      <a href="https://github.com/elfilaliamin/finance-tracker">GitHub</a> · <a href="https://finance.aminlab.site/">Live</a> · <a href="https://finance.aminlab.site/docs/">Docs</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐧 Self-Hosted Linux Server</h3>
+      <p>Alpine Linux home server used as a persistent staging and self-hosting environment, built from an old laptop.</p>
+      <p><code>Alpine</code> <code>Docker</code> <code>Nginx</code> <code>SSH</code></p>
+      <p>🔑 SSH keys · firewall · automated updates · local DNS</p>
+      <a href="https://medium.com/@elfilaliamin/turn-an-old-laptop-into-a-home-server-with-alpine-linux-docker-and-portainer-09fd982daf59">Read the story on Medium</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 Autonomous Obstacle-Avoiding Robot</h3>
+      <p>Wheeled robot built end to end: wiring, power management, sensor calibration, chassis and Arduino firmware that reads an ultrasonic sensor and steers DC motors around obstacles.</p>
+      <p><code>Arduino</code> <code>C/C++</code> <code>Ultrasonic sensor</code> <code>DC motors</code> · <a href="https://www.linkedin.com/feed/update/urn:li:activity:7346212816170741770/">See it in action</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏗️ How I ship and host my apps
+
+```mermaid
+flowchart LR
+    U([🌍 User]) --> CF[☁️ Cloudflare<br/>Zero Trust Tunnel]
+    CF --> NG[🧭 Nginx<br/>reverse proxy]
+    NG --> FE[⚛️ React SPA]
+    NG --> API[🟢 Node + Express API]
+    API --> DB[(🐘 PostgreSQL)]
+    GH[🐙 GitHub Actions CI] -. deploy .-> DC[🐳 Docker Compose]
+    DC -.- NG
+    subgraph HOME[🐧 Alpine Linux home server]
+      NG
+      FE
+      API
+      DB
+      DC
+    end
+```
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+
+**Languages & frameworks**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,express,postgres,mysql,python,arduino,c&perline=12" alt="stack" />
+
+**DevOps & tools**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,cloudflare,ps&perline=8" alt="devops" />
+
+</div>
+
+---
+
+## 📊 Most used languages
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfilaliamin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
+</div>
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+I'm currently looking for **junior full-stack or backend roles**. If you've got a practical, real-world problem to solve, let's talk.
+
+[![Email me](https://img.shields.io/badge/📫_elfilaliamin.design@gmail.com-0e75b6?style=for-the-badge)](mailto:elfilaliamin.design@gmail.com)
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" alt="Medium" />](https://medium.com/@elfilaliamin)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" alt="Facebook" />](https://fb.com/med.amin.elfilali)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" alt="Instagram" />](https://instagram.com/elfilali.medamin)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
